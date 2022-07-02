@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/executeTests.dir/testing.cpp.o  -o /home/ocaranza/Documentos/C++/Postfix/bin/executeTests  -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread 

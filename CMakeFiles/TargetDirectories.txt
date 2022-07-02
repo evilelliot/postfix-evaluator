@@ -1,0 +1,3 @@
+/home/ocaranza/Documentos/C++/Postfix/CMakeFiles/edit_cache.dir
+/home/ocaranza/Documentos/C++/Postfix/CMakeFiles/rebuild_cache.dir
+/home/ocaranza/Documentos/C++/Postfix/CMakeFiles/Postfix.dir

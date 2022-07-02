@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ocaranza/Documentos/C++/Postfix/src/Evaluator.hpp
+string
+-
+stack
+-
+sstream
+-
+math.h
+-
+
+/home/ocaranza/Documentos/C++/Postfix/test/testing.cpp
+../src/Evaluator.hpp
+/home/ocaranza/Documentos/C++/Postfix/src/Evaluator.hpp
+gtest/gtest.h
+-
+string
+-
+math.h
+-
+
